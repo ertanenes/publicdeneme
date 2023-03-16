@@ -1,0 +1,12 @@
+{
+    "Bot": {
+        "Token": "BOTUN TOKENİNİ GİRİCEKSİN",
+        "Prefix": ".",
+        "GuildID": "SUNUCU İDSİNİ GİRİECKSİN",
+        "VoiceChannelID": "SES KANAL İD GİRİCEKSİN",
+        "MongoURL": "MONGO URL GİRİCEKSİN",
+        "OwnersID": ["KENDİ İDNİ GİRİCEKSİN"],
+        "Activity": "değer mi",
+        "Status": "değer mi"
+    }
+}
